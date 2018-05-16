@@ -1,6 +1,6 @@
 # Silent Melanin
 
-##Transitions
+## Transitions
 
 ![#86af49](https://placehold.it/15/86af49/000000?text=+) `Greenery #86af49` ..
 ![#90a7d0](https://placehold.it/15/90a7d0/000000?text=+) `Serenity #90a7d0` ..
@@ -11,7 +11,7 @@
 ![#ef5c6e](https://placehold.it/15/ef5c6e/000000?text=+) `Calypsocoral #ef5c6e` ..
 ![#d6d5da](https://placehold.it/15/d6d5da/000000?text=+) `Nimbuscloud #d6d5da` ..
 
-##Ethereal Material
+## Ethereal Material
 
 ![#45434b](https://placehold.it/15/45434b/000000?text=+) `Periscope #45434b`
 ![#864c24](https://placehold.it/15/864c24/000000?text=+) `Caramelcafe #864c24`
