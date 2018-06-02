@@ -23,11 +23,11 @@
 
 ## Rev It Up
 
-![#2c282c](https://placehold.it/15/2c282c/000000?text=+) `Black Onyx #2c282c`
-![#edf1ff](https://placehold.it/15/edf1ff/000000?text=+) `Brilliant White #edf1ff`
-![#fee715](https://placehold.it/15/fee715/000000?text=+) `Blazing Yellow #fee715`
-![#3850a0](https://placehold.it/15/3850a0/000000?text=+) `Dazzling Blue #3850a0`
-![#ff7913](https://placehold.it/15/ff7913/000000?text=+) `Orange Popsicle #ff7913`
-![#e04f80](https://placehold.it/15/e04f80/000000?text=+) `Fandango #e04f80`
-![#a09f9c](https://placehold.it/15/a09f9c/000000?text=+) `Drizzle #a09f9c`
-![#f0a1bf](https://placehold.it/15/f0a1bf/000000?text=+) `Prism Pink #f0a1bf`
+![#2c282c](https://placehold.it/15/2c282c/000000?text=+) `Black Onyx #2c282c` 
+![#edf1ff](https://placehold.it/15/edf1ff/000000?text=+) `Brilliant White #edf1ff` 
+![#fee715](https://placehold.it/15/fee715/000000?text=+) `Blazing Yellow #fee715` 
+![#3850a0](https://placehold.it/15/3850a0/000000?text=+) `Dazzling Blue #3850a0` 
+![#ff7913](https://placehold.it/15/ff7913/000000?text=+) `Orange Popsicle #ff7913` 
+![#e04f80](https://placehold.it/15/e04f80/000000?text=+) `Fandango #e04f80` 
+![#a09f9c](https://placehold.it/15/a09f9c/000000?text=+) `Drizzle #a09f9c` 
+![#f0a1bf](https://placehold.it/15/f0a1bf/000000?text=+) `Prism Pink #f0a1bf` 
