@@ -20,6 +20,12 @@
     --fruitdove: #ce5b78;
     --bodacious: #b86ba3;
     --marlin: #525a88;
+    /*modern bauhaus*/
+    --triune-red: rgb(215, 0, 54);
+   --triune-black: rgb(35, 31, 32);
+   --triune-cream: rgb(245, 240, 161);
+   --triune-sky: rgb(136, 219, 223);
+   --triune-sun: rgb(255, 230, 0);
     
 }
 
