@@ -29,6 +29,11 @@
     
 }
 
+/*modern bauhaus*/
+.triune-red_font {
+    color: var(--triune-red);
+}
+
 /*transitions*/
 
 .greenery_font {
