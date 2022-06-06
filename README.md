@@ -2,7 +2,7 @@
 
 ## Transitions
 
-![#86af49](https://placehold.it/15/86af49/000000?text=+) `Greenery #86af49`  
+![#86af49](https://via.placeholder.com/15/86af49/000000?text=+) `Greenery #86af49`  
 ![#90a7d0](https://placehold.it/15/90a7d0/000000?text=+) `Serenity #90a7d0`  
 ![#f2dcde](https://placehold.it/15/f2dcde/000000?text=+) `Rosequartz #f2dcde`   
 ![#476a30](https://placehold.it/15/476a30/000000?text=+) `Treetop #476a30`  
